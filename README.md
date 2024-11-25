@@ -1,6 +1,7 @@
 # Poltersprite
 
 **Inkus Alters 2024**
+
 **Created for GitHub Game Off 2024 entry**
 
 Poltersprite is a simple ghost investigation game for the original Gameboy.
