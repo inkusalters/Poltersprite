@@ -22,6 +22,8 @@ The GB Studio project files are included as well, to open up modding.
 
 If you enjoy the game, please rate it on itch.io or leave a tip on my Ko-fi: https://ko-fi.com/inkusalters
 
-Poltersprite © 2024 by Inkus Alters is licensed under CC BY-NC-SA 4.0 
+Poltersprite © 2024 by Inkus Alters is licensed under CC BY-NC-SA 4.0
+
 Code is licensed under GNU General Public License v3 (GPL-3)
+
 You may download any listed version of the project files to use for your own projects/modding as long as the appropriate licenses, credits, and references to this repo are included. Assets may be modified but not used commercially.
