@@ -8,8 +8,13 @@ Poltersprite is a simple ghost investigation game for the original Gameboy.
 Explore a haunted house and use your equipment to gather evidence and identify the ghost.
 Make sure you get out alive! Find somewhere to hide if the ghost starts to hunt!
 
+To fit the time constraints of the Game Jam, the game initially hosts 4 ghost types, 4 evidence types, and 1 location with 5 rooms. I am planning to include more content after the voting period ends to expand the game, with the potential for a new location if it is received well!
+
 The game features a hard mode for added challenge, providing 2 evidence instead of 3, slowing the player, and speeding up the ghost. Additionally, 2 of the 3 hiding spots get blocked off.
-As well as hand-drawn sprites and original music and sfx.
+
+The game has a point system and will display your score at the end of every game if you choose to view it. See if you can beat your friends' scores!
+
+The game also features hand-drawn sprites with original music and sfx.
 
 This is distributed as a Gameboy ROM. You may flash it to a cartridge or use any Gameboy emulator to play!
 The project was created in GB Studio, with graphics created by hand in LibreSprite and Tiled.
