@@ -3,12 +3,13 @@
 **Inkus Alters 2024**
 
 **Created for GitHub Game Off 2024 entry**
+**Ranked 127th out of 521 total entries**
 
 Poltersprite is a simple ghost investigation game for the original Gameboy.
 Explore a haunted house and use your equipment to gather evidence and identify the ghost.
 Make sure you get out alive! Find somewhere to hide if the ghost starts to hunt!
 
-To fit the time constraints of the Game Jam, the game initially hosts 4 ghost types, 4 evidence types, and 1 location with 5 rooms. I am planning to include more content after the voting period ends to expand the game, with the potential for a new location if it is received well!
+To fit the time constraints of the Game Jam, the game initially hosts 4 ghost types, 4 evidence types, and 1 location with 5 rooms. New content is expected to be added within 1-2 months of the jam ending, in February or March.
 
 The game features a hard mode for added challenge, providing 2 evidence instead of 3, slowing the player, and speeding up the ghost. Additionally, 2 of the 3 hiding spots get blocked off.
 
