@@ -6,7 +6,7 @@
 **Ranked 127th out of 521 total entries**
 
 Poltersprite is a simple ghost investigation game for the original Game Boy.
-Explore a haunted house (and soon a haunted carnival!) and use your equipment to gather evidence and identify the ghost.
+Explore your choice of a haunted house or haunted carnival and use your equipment to gather evidence and identify the ghost.
 Make sure you get out alive! Find somewhere to hide if the ghost starts to hunt!
 
 To fit the time constraints of the Game Jam, the game initially hosted 4 ghost types, 4 evidence types, and 1 location with 5 rooms. As of May 5th, the game contains 3 additional ghost types, 1 additional evidence type, and 1 new location with 8 unique rooms, as well as various new accessibility features (button prompts, popups warning of hunts rather than relying on audio cues, larger journal text), a complete rework of the inventory and journal, and (finally) a way to gain back some lost sanity for those struggling with the drop. You'll be able to use the truck computer to look at cat photos in your downtime to calm yourself and regain 20% sanity as many times as you may need to complete the job (15% in hard mode).
@@ -23,7 +23,7 @@ The GB Studio project files are included as well, to open up modding.
 
 If you enjoy the game, please rate it on itch.io or leave a tip on my Ko-fi so I can get to making physical cartridges: https://ko-fi.com/inkusalters
 
-Poltersprite © 2024 by Inkus Alters is licensed under CC BY-NC-SA 4.0
+Poltersprite © 2024-2025 by Inkus Alters is licensed under CC BY-NC-SA 4.0
 
 Code is licensed under GNU General Public License v3 (GPL-3)
 
